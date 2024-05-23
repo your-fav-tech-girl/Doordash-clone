@@ -1,0 +1,421 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+    max-width:100%;
+    
+ }
+ 
+ .background{
+    position:relative;
+    background-image :(url'images/img1.jpg');
+    height:43.75rem;
+
+   
+    }
+    input[type="button1"] {
+      position:absolute;
+      top:1.25rem;
+      right:6.875rem;
+      width:5rem;
+      height:2.5rem;
+      border-radius:1.875rem;
+      border:white;
+      background-color:rgb(223, 45, 45);
+      color: white;
+      font-size:1.125rem;
+      text-align:center;
+      font-weight: bold;
+    }
+
+    input[type="button2"] {
+      position:absolute;
+      top:1.25rem;
+      right:1.25rem;
+      width:4.9rem;
+      padding:0.313rem;
+      border-radius:1.875rem;
+      border:0.313rem solid white;
+      font-size:1rem;
+      font-weight:bold;
+   }
+    
+ .more {
+    position:absolute;
+    top :14.4rem;
+    left:21.9rem;
+    font-size:1.12rem;
+    color:white;
+ }
+ 
+ input[type="address"] {
+    position:absolute;
+    top:18.7rem;
+    left:30.25rem;
+    width:24.75rem;
+    height:3.43rem;
+    border-radius:1.87rem;
+    border:white;
+    text-align:left;
+    text-indent:1.87rem;
+ }
+ 
+  input[type="button"] {
+    position:absolute;
+    top:23.55rem;
+    left:36.25rem;
+    width:12.5rem;
+    height:1.87rem;
+    border: white;
+    border-radius:1.87rem;
+    font-weight:bold;
+ 
+ }
+ .door{
+   position:absolute;
+   top:1.25rem;
+   left:31rem;
+   height:18.75rem;
+  background-position:left;
+
+ }
+ .main {
+    position:relative;
+    height:68.75rem;
+ 
+ }
+ .ride {
+    position:absolute;
+    top:1.87rem;
+    left:5.87rem;
+    width:25rem;
+    text-align:center;
+ }
+ .partner{
+   position:absolute;
+   top:1.87rem;
+   left:28.1rem;
+   width:25rem;
+   text-align: center;
+
+ }
+ .app {
+    position: absolute;
+    top:1.87rem;
+    right:2.97rem;
+    width:25rem;
+    text-align:center;
+    }
+
+    .your a {
+      color:red;
+    }
+ 
+ .food { 
+       position:relative;
+       text-align:center;
+       margin:0;
+    }
+ 
+    .right {
+      position:absolute;
+      top:34.37rem;
+      right:4.375rem;
+      width:43.75rem;
+      padding:0;
+    }
+
+ .left {
+    position: absolute;
+    top:37.5rem;
+    left:4.37rem;
+    width:28.125rem;
+    text-align: justify;
+    line-height:1.7;
+ }
+ 
+ .container3{
+    position: relative;
+    height:37.5rem;
+    background-color: rgb(249, 230, 233);
+ }
+ .image{
+    position:absolute;
+    top:5rem;
+    left:4.38rem;
+    width:43.8rem;
+ }
+ .text {
+    position: absolute;
+    top:12.5rem;
+    right:4.38rem;
+    width:21.9rem;
+    text-align:justify;
+ }
+ .image2 {
+   background-image: (url'images/img2.jpg') ;
+   position: relative;
+   background-color:rgb(76, 71, 71);
+   height:21.9rem;
+   padding:0;
+ }
+
+  .text2 {
+   position: absolute;
+   top:0;
+   right:0.313rem;
+   color: white;
+   background-color:rgba(0, 0, 0, 0.6);
+   padding: 9.8rem 25rem;
+   text-align:center;
+  }
+
+ .drug {
+    position:relative;
+    text-align:center;
+    height:53.12rem;
+ }
+ .store {
+    position: absolute;
+    top:18.75rem;
+    left:31.25rem;
+    text-align:justify;
+ }
+ .stores {
+  position: absolute;
+  top:9.375rem;
+  right:40.625rem;
+  width:31.25rem;
+  text-align: justify;
+ }
+ 
+.section{
+   position:relative;
+   text-align: center;
+   height:60.5rem;
+   background-color:rgb(249, 230, 233); 
+   padding:0.65rem 1.25rem 0.65rem 1.25rem;
+   
+   } 
+.gift{
+   position: absolute;
+   top:9.375rem;
+   left:4.375rem;
+   text-align:center;
+}
+
+.gift1{
+   position: absolute;
+   top:36.62rem;
+   left:0.5rem;
+   
+}
+.flowers{
+   position: absolute;
+   top:9.375rem;
+   right:5.375rem;
+}
+.flowers1{
+  position: absolute;
+  top:36.63rem;
+  right:1.25rem;
+  text-align:center;
+}
+.mix{
+   position: relative;
+   background-color:rgb(249, 230, 233); 
+   height:52.50rem;
+   padding:0.65rem 1.25rem 0.65rem 1.25rem;
+}
+.beer{
+   position:absolute;
+   top:2.25rem;
+   left:5rem;
+}
+.beer1{
+   position: absolute;
+   top:35.63rem;
+   left:0;
+   text-align: center;
+}
+.pets{
+   position: absolute;
+   top:2.25rem;
+   right:5rem;
+}
+.pets1{
+   position: absolute;
+   top:35.63rem;
+   right:0.625rem;
+   text-align:center;
+}
+
+.gifting{
+   text-align:center;
+   position:absolute;
+   top:1.875rem;
+   left:27.125rem;
+   word-spacing:0.313rem;
+}
+ 
+.section2{
+   position:relative;
+   height:50rem;
+}
+.image3{
+   position:absolute;
+   top:12.5rem;
+   right:4rem;
+}
+.sign2{
+   position:absolute;
+   top:18.75rem;
+   left:4.5rem;
+   text-align:justify;
+}
+.sign{
+   position:absolute;
+   top:3.125rem;
+   left:28.125rem;
+   font-size:120%;
+   text-align:right;
+}
+.section3{
+   position:relative;
+   width:93.75rem;
+   height:35.625rem;
+   background-color:rgb(249, 230, 226) ;
+}
+.image4{
+   position: absolute;
+   top:5.25rem;
+   left:4.625rem; 
+}
+ .grow{
+   position:absolute;
+   top:13.625rem;
+   right:4.375rem;
+   text-align:justify;
+ }
+
+  .table1{
+   height:21.875rem;
+   position:relative;
+   margin-left:50px;
+  }
+
+  th{
+   border-bottom:0.020rem solid grey;
+  }
+  .get{
+   position:absolute;
+   top:3.125rem;
+   left:20.375rem;
+  }
+  table{
+   border:hidden;
+   padding-top:5.625rem;
+   position:absolute;
+   top:2.5rem;
+   right:3.75rem;
+  }
+
+  .section4{
+   position:relative;
+   width:150.50rem;
+   height:12.5rem;
+   background-color: rgb(24, 24, 24);
+   color:rgb(252, 238, 238);
+   text-align:justify;
+   line-height:1.6;
+   font-size:90%;
+  }
+
+  .footer{
+   position:absolute;
+   top:1rem;
+   left:5.5rem;
+
+  }
+
+   .footer1{
+      position: absolute;
+      top:5.625rem;
+      left:26.25rem;
+   }
+
+   .footer2{
+      position: absolute;
+      top:5.625rem;
+      left:45rem;
+   }
+   .footer3{
+      position:absolute;
+      top:5.625rem;
+      right:7.5rem;
+   }
+   .section5{
+      position: relative;
+      width:112.5rem;
+      height:31.25rem;
+      background-color:rgb(24, 24, 24);
+      line-height:1.6;
+      text-align: justify;
+      color:rgb(252, 238, 238) ;
+      font-size:90%;
+      
+   }
+
+    .footer4{
+      position: absolute;
+      top:2.5rem;
+      left:5rem;
+    }
+
+    .footer5{
+      position: absolute;
+      top:2.5rem;
+      left:18.75rem;
+    }
+    .footer6{
+      position: absolute;
+      top:2.5rem;
+      left:31.25rem;
+    }
+    .sell {
+      position:absolute;
+      top:28.12rem;
+      left:8.75rem;
+      word-spacing:5px ;
+   
+    }
+    
+   tr :hover{
+      background-color:rgb(244, 244, 244) ;
+   }
+
+
+ .link a:link, .link a:visited {
+   background-color: red;
+   color: white;
+   padding: 0.875rem 1.56rem;
+   text-align:center;
+   text-decoration:none;
+   display: inline-block;
+   border-radius:1.875rem;
+   margin-top:1.25rem;
+ }
+ 
+ .link a:hover,.link a:active {
+   background-color: red;
+ }
+
+  .section4 a ,.section5 a {
+   color:rgb(200, 179, 179);
+   text-decoration: none;
+ }
+
+.section4 li , .section5 li {
+  list-style-type: none;
+}
